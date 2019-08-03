@@ -1,0 +1,12 @@
+{
+  "name": "auto_clipper",
+  "version": "1.0.0",
+  "description": "provide a path to a video / audio file, put in a list of time codes and length and the name of the clip and it will do the rest.",
+  "main": "auto_clipper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Sanders",
+  "license": "MIT",
+  "dependencies": {}
+}
